@@ -1,6 +1,6 @@
 # Pedro-Henrique
 
-# 💫 About Me:
+# 💫 Sorbre mim:
 Engenheiro da Computação em formação | Entusiasta de C# e Java<br>👨‍💻 Atualmente estudando Engenharia da Computação e explorando o mundo da programação.<br>💻 Linguagens favoritas: C# e Java.<br>📚 Objetivo no GitHub: Construir um portfólio sólido e compartilhar meus projetos.<br>🧹 Filosofia de código: Clean code é essencial!<br>🎮 Curiosidade: Nos momentos livres, gosto de jogar games de sobrevivência e ler mangás.<br>🤝 Aberto a colaborações e oportunidades de aprendizado.<br><br>📫 Contato: pedrohbrotto2@gmail.com 
 
 
